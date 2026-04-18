@@ -70,7 +70,7 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          "<br><br><br>key word : Emotional NLP, Raspberry Pi Robotics, Human-Robot Interaction(HRI), Speech Assessment"
+          <br><br><br>key word : Emotional NLP, Raspberry Pi Robotics, Human-Robot Interaction(HRI), Speech Assessment
         description: | # this will include new lines to allow paragraphs
           사용자가 웹에 영어 대본을 업로드하면 시스템이 자동으로 등장인물과 감정을 분류하고,
           머리 형태의 라즈베리파이 로봇이 LCD 입 모양과 고갯짓으로 상대방 역할을 수행하여
