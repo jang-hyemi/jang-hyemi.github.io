@@ -53,25 +53,26 @@ about_content: | # this will include new lines to allow paragraphs
   I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
 content:
-  - title: Projects # Title for the section
+  - title: 2026 졸업작품 프로젝트 # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: github.com/jang-hyemi
+        title: English script practice robot project
+        link: github.com/Triplelingo/ScriptRobotProject
         # link_text: Project Website
         additional_links:
           - title:  jang-hyemi/modern-resume-theme
             icon: fab fa-github
-            url: github.com/jang-hyemi/jang-hyemi
+            url: github.com/Triplelingo/ScriptRobotProject
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+          key : Emotional NLP, Raspberry Pi Robotics, Human-Robot Interaction(HRI), Speech Assessment
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
-
+          사용자가 웹에 영어 대본을 업로드하면 시스템이 자동으로 등장인물과 감정을 분류하고,
+          머리 형태의 라즈베리파이 로봇이 LCD 입 모양과 고갯짓으로 상대방 역할을 수행하여
+          사용자가 실제 대화하듯 영어 대본을 연습할 수 있는 시스템.
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
