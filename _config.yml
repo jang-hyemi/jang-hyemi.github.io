@@ -65,7 +65,7 @@ content:
         additional_links:
           - title:  jang-hyemi/modern-resume-theme
             icon: fab fa-github
-            url: github.com/Triplelingo/ScriptRobotProject"<br><br><br>"
+            url: "github.com/Triplelingo/ScriptRobotProject<br><br><br>"
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
