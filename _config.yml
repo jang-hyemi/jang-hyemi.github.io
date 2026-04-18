@@ -22,10 +22,10 @@ github_username:  jang-hyemi
 # facebook_username: jekyll
 # flickr_username: jekyll
 #instagram_username: jameswgrant
-linkedin_username: https://www.linkedin.com/in/%ED%98%9C%EB%AF%B8-%EC%9E%A5-12b108404/
+linkedin_username: www.linkedin.com/in/혜미-장-12b108404
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: https://www.youtube.com/@%EC%9E%A5%ED%98%9C%EB%AF%B8-z2u
+youtube_username: https://www.youtube.com/channel/UCNd2YIk840IpmQa0AS9xwyQ
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
@@ -46,7 +46,7 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/pinn.png
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
 
