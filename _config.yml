@@ -15,17 +15,17 @@ website: www.github.com/jang-hyemi/jang-hyemi
 darkmode: false
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+#twitter_username: facespics
+github_username:  jang-hyemi
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
+#instagram_username: jameswgrant
+linkedin_username: https://www.linkedin.com/in/%ED%98%9C%EB%AF%B8-%EC%9E%A5-12b108404/
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: globalmtb
+youtube_username: https://www.youtube.com/@%EC%9E%A5%ED%98%9C%EB%AF%B8-z2u
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
@@ -58,12 +58,12 @@ content:
     content:
       - layout: top-middle
         title: Super awesome project
-        link: github.com/sproogen
+        link: github.com/jang-hyemi
         # link_text: Project Website
         additional_links:
-          - title:  sproogen/modern-resume-theme
+          - title:  jang-hyemi/modern-resume-theme
             icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+            url: github.com/jang-hyemi/jang-hyemi
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
