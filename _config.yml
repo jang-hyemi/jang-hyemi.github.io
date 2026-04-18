@@ -68,26 +68,26 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          key : Emotional NLP, Raspberry Pi Robotics, Human-Robot Interaction(HRI), Speech Assessment
+          key word : Emotional NLP, Raspberry Pi Robotics, Human-Robot Interaction(HRI), Speech Assessment
         description: | # this will include new lines to allow paragraphs
           사용자가 웹에 영어 대본을 업로드하면 시스템이 자동으로 등장인물과 감정을 분류하고,
           머리 형태의 라즈베리파이 로봇이 LCD 입 모양과 고갯짓으로 상대방 역할을 수행하여
           사용자가 실제 대화하듯 영어 대본을 연습할 수 있는 시스템.
-  - title: Experience # Title for the section
+  - title: Experience ( 경력 사항 ) # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
         title: 엠브레이스
-        link: https://embracelabs.com/
+        link: https://embracelabs.com
         # link_text: boringcompany.com
         sub_title: 실시간 스트리밍 서비스 광고 운영 및 모니터링
         caption: 2024년 7월 - 재직중
         quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+          Key word : Live Streaming Operations, Real-time Monitoring, Advertisement Traffic Management, Sports Media Service
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+          국내외 프로 야구 및 프로 농구 리그 등 대규모 트래픽이 집중되는 실시간 스트리밍 환경에서 2년간 광고 송출 시스템 운영과 모니터링을 전담하였습니다. 경기 상황에 따른 실시간 광고 편성 최적화와 시스템 부하 관리 업무를 수행하였으며, 서비스 안정성 확보를 위해 장애 요소를 사전 탐지하고 즉각적으로 대응하는 역량을 쌓았습니다. 스포츠 스트리밍 특유의 동시 접속자 급증 상황에서도 누수 없는 광고 송출을 보장하며 안정적인 수익 모델 운영에 기여하였습니다.
 
-  - title: Education # Title for the section
+  - title: Education ( 학위 ) # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
@@ -95,12 +95,9 @@ content:
         caption: 2023 - 2026
         sub_title: 컴퓨터소프트웨어공학과
         quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+          key word : Embedded Systems, Hardware Interface, Low-level Programming, Global Communication
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
-
+          컴퓨터소프트웨어공학을 전공하며 소프트웨어와 하드웨어의 접점인 임베디드 시스템 분야에 깊은 관심을 두고 역량을 쌓아왔습니다. C언어를 활용한 커널 및 시스템 프로그래밍의 기초를 다졌으며, Raspberry Pi와 Arduino 등 다양한 보드를 활용해 센서 제어 및 실시간 데이터 처리 프로젝트를 수행하며 하드웨어 인터페이스 최적화 경험을 보유하고 있습니다. 또한, 전공 관련 외신 기술 문서와 레퍼런스를 원활히 활용하며 글로벌 기술 트렌드를 익혔고, 교내 외국인 유학생들의 적응을 돕는 과정에서 다양한 문화적 배경을 가진 동료와 소통하고 협업하는 유연한 커뮤니케이션 능력을 체득하였습니다.
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
