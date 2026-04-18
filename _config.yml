@@ -75,7 +75,7 @@ content:
           사용자가 웹에 영어 대본을 업로드하면 시스템이 자동으로 등장인물과 감정을 분류하고,
           머리 형태의 라즈베리파이 로봇이 LCD 입 모양과 고갯짓으로 상대방 역할을 수행하여
           사용자가 실제 대화하듯 영어 대본을 연습할 수 있는 시스템.
-  - title: Experience ( 경력 사항 ) # Title for the section
+  - title: <br><br><br><br><br><br>Experience ( 경력 사항 ) # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
@@ -89,7 +89,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           국내외 프로 야구 및 프로 농구 리그 등 대규모 트래픽이 집중되는 실시간 스트리밍 환경에서 2년간 광고 송출 시스템 운영과 모니터링을 전담하였습니다. 경기 상황에 따른 실시간 광고 편성 최적화와 시스템 부하 관리 업무를 수행하였으며, 서비스 안정성 확보를 위해 장애 요소를 사전 탐지하고 즉각적으로 대응하는 역량을 쌓았습니다. 스포츠 스트리밍 특유의 동시 접속자 급증 상황에서도 누수 없는 광고 송출을 보장하며 안정적인 수익 모델 운영에 기여하였습니다.
 
-  - title: Education ( 학위 ) # Title for the section
+  - title: <br><br><br><br><br><br>Education ( 학위 ) # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
@@ -100,7 +100,7 @@ content:
           key word : Embedded Systems, Hardware Interface, Low-level Programming, Global Communication
         description: | # this will include new lines to allow paragraphs
           컴퓨터소프트웨어공학을 전공하며 소프트웨어와 하드웨어의 접점인 임베디드 시스템 분야에 깊은 관심을 두고 역량을 쌓아왔습니다. C언어를 활용한 커널 및 시스템 프로그래밍의 기초를 다졌으며, Raspberry Pi와 Arduino 등 다양한 보드를 활용해 센서 제어 및 실시간 데이터 처리 프로젝트를 수행하며 하드웨어 인터페이스 최적화 경험을 보유하고 있습니다. 또한, 전공 관련 외신 기술 문서와 레퍼런스를 원활히 활용하며 글로벌 기술 트렌드를 익혔고, 교내 외국인 유학생들의 적응을 돕는 과정에서 다양한 문화적 배경을 가진 동료와 소통하고 협업하는 유연한 커뮤니케이션 능력을 체득하였습니다.
-  - title: 수상 및 자격
+  - title: <br><br><br><br><br><br>수상 및 자격
     layout: text
     content: | # this will include new lines to allow paragraphs
       자격
