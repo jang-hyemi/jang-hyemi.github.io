@@ -52,12 +52,12 @@ about_content: | # this will include new lines to allow paragraphs
 
   I am most skilled in: bridging hardware and software through <mark>Embedded Systems</mark> with precise spatial control and meticulous, culturally-aware communication.
 
-content:
-  - title: 2026 졸업작품 프로젝트 # Title for the section
+content: 
+  - title: 포트폴리오 # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: English script practice robot project
+        title: 2026 졸업작품 프로젝트 :English script practice robot project
         link: github.com/Triplelingo/ScriptRobotProject
         # link_text: Project Website
         additional_links:
@@ -98,17 +98,12 @@ content:
           key word : Embedded Systems, Hardware Interface, Low-level Programming, Global Communication
         description: | # this will include new lines to allow paragraphs
           컴퓨터소프트웨어공학을 전공하며 소프트웨어와 하드웨어의 접점인 임베디드 시스템 분야에 깊은 관심을 두고 역량을 쌓아왔습니다. C언어를 활용한 커널 및 시스템 프로그래밍의 기초를 다졌으며, Raspberry Pi와 Arduino 등 다양한 보드를 활용해 센서 제어 및 실시간 데이터 처리 프로젝트를 수행하며 하드웨어 인터페이스 최적화 경험을 보유하고 있습니다. 또한, 전공 관련 외신 기술 문서와 레퍼런스를 원활히 활용하며 글로벌 기술 트렌드를 익혔고, 교내 외국인 유학생들의 적응을 돕는 과정에서 다양한 문화적 배경을 가진 동료와 소통하고 협업하는 유연한 커뮤니케이션 능력을 체득하였습니다.
-  - title: A Little More About Me
+  - title: 수상 및 자격
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+      자격
+      - SqlD ( 취득일 26.06 )
 
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
